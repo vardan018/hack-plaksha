@@ -1,6 +1,8 @@
 # Wavelength
 
 
+Welcome to the World of Online Jamming!
+
 
 ## Getting Started
 
